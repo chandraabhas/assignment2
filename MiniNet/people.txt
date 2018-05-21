@@ -1,0 +1,8 @@
+Ben Turner , "BenPhoto.jpg", "manager at Coles" , M , 35 , VIC
+Zoe Foster , "", "Founder of ZFX" , F , 28 , VIC
+Mark Turner , "Mark.jpeg", "" , M , 2 , VIC
+Abhishek , "/home/abhishek/Downloads/default.jpeg", "" , M , 45 , ACT
+Abhishek1 , "/home/abhishek/Downloads/default.jpeg", "" , M , 45 , ACT
+Test Name , "/home/abhishek/Downloads/people-1.png", "My Status" , M , 34 , NT
+testFemale , "/home/abhishek/Downloads/default.jpeg", "test Female" , F , 24 , TAS
+Test Baby , "Click to Select Image", "Test Baby" , M , 2 , NT
